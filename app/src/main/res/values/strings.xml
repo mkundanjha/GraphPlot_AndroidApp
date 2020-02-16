@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grapho</string>
+    <string name="title">SELECT CURVE TYPE</string>
+    <string name="linearButton">Linear Curve</string>
+    <string name="quadButton">Quadratic Curve</string>
+    <string name="back">Back</string>
+    <string name="DataPageTitle">LINEAR EQUATION</string>
+    <string name="InputDataView">Input Data</string>
+    <string name="slopeView">Slope (m):</string>
+    <string name="interceptView">Intercept (c):</string>
+    <string name="linearEquationView">y = mx + c</string>
+    <string name="pltoButton">Plot</string>
+    <string name="learPlot">LINEAR PLOT</string>
+    <string name="a">a:</string>
+    <string name="b">b:</string>
+    <string name="c">c:</string>
+    <string name="quadEquation">y = ax<sup>2</sup> + bx + c</string>
+    <string name="quadTitle">QUADRATIC EQUATION</string>
+</resources>
